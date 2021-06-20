@@ -2,6 +2,7 @@
 Entrega do desafio 1 do curso do microsoft azure da Una
 Nomes: Elias Lima  
 Josue Silva 
+
 Desafio 1 -  
 Utilizando o Microsoft Azure Machine Learning foi feito uma pipeline de treinamento com os dados do enade 2019, para tentar prever as próximas possíveis notas de CN, CH, LC e MT. 
 Foi retirado dados faltando das colunas para maior velocidade da IA. 
